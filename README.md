@@ -7,5 +7,5 @@ function stayAtHome () {
  
 while (corona.isAlive()){
  stayAtHome();
-}
+} 
  
