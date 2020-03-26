@@ -46,6 +46,10 @@
                                 </div>
                             </div>
                             <button type="submit" class="button is-block is-link is-large is-fullwidth">Cadastrar</button>
+                            <br><br>
+                            <button type="submit" class="button is-block is-link is-large is-fullwidth">Alterar</button>
+                            <br><br>
+                            <button type="submit" class="button is-block is-link is-large is-fullwidth">Excluir</button>
                         </form>
                     </div>
                 </div>
